@@ -79,10 +79,9 @@ main {
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: 12px;
 }
 .attribution,
 a {
   color: var(--dark-navy);
 }
-
