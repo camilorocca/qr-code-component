@@ -72,9 +72,11 @@
 
 ## **What I learned**
 
-* Learned to set CSS **custom properties**
-* Learned to use **Flexbox**
-* Deepened **Semantic HTML** concepts
+* CSS custom properties
+* `@fontface` 
+* Flexbox & Grid
+* Semantic HTML, AOM, ARIA.
+* `font` shorthand
 
   
 ## **Continued development**
@@ -83,14 +85,15 @@
 
 ## Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+* [**Semantic HTML**](https://web.dev/learn/html/semantic-html/) - Here I learned about the browsers' Accessibility Object Model, and started to know how to proper structure an HTML document. From here, delved into WAI-ARIA Roles and [First Rule of ARIA](https://www.w3.org/TR/using-aria/#firstrule).
+* [**"Stretching body to full viewport height: the missing way"**](https://dev.to/fenok/stretching-body-to-full-viewport-height-the-missing-way-2ghd) - Alternatives to `min-height: 100vh`
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 <!-- ACKNOWLEDGMENTS -->
 ## **Acknowledgment**
 
-* Inspired (a lot) by [Abdul Khalid](https://www.frontendmentor.io/profile/0xAbdulKhalid)
-* [**Factoria F5**](https://factoriaf5.org)  Thanks for All the Fish!
+* Inspired (a lot) by [Abdul Khalid](https://www.frontendmentor.io/profile/0xAbdulKhalid). Thank you for your example in every little detail, from the structure of the code to the README badges. Just by studying this simple exercise of yours, I've learned TONS. 
+* [**Factoria F5**](https://factoriaf5.org)  Thanks for the introducing me to the coding Wonderland!
 
 
 ## **Let's Connect!**
