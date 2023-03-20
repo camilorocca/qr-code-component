@@ -1,7 +1,8 @@
 
 <div align="left">
   <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="frontendmentor" width="80">
-  <h2 align="left">QR Code Component Solution </h2>
+  <h2>QR Code Component Solution </h2>
+  <p><a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank"><strong>Frontend Mentor Challenge</strong></a></p>
 </div>
 
 <!-- Bagdes -->
@@ -32,8 +33,8 @@
 
 ## **Links**
 
-* Solution URL: [Add solution URL here](https://qr-code-component-without-any-added-creativity)
-* Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+* Solution URL: https://github.com/camilorocca/qr-code-component
+* Live Site URL: https://camilorocca.github.io/qr-code-component
 
 
 ## **Built with**
