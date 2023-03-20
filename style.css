@@ -1,0 +1,87 @@
+/*
+    Import Fonts
+*/
+
+@font-face {
+  font-family: "Outfit";
+  src: url(./fonts/Outfit.ttf) format("truetype-variations");
+  font-weight: 1 999;
+}
+
+/*
+    Variables Declarations
+*/
+
+:root {
+  --white: hsl(0, 0%, 100%);
+  --light-gray: hsl(212, 45%, 89%);
+  --gray: hsl(220, 15%, 55%);
+  --dark-navy: hsl(218, 44%, 22%);
+  --fontOutfit: "Outfit", sans-serif;
+}
+
+/*
+    CSS Basic Reset 
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*
+    Body
+*/
+
+body {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background: var(--light-gray);
+  font-family: var(--fontOutfit);
+  text-align: center;
+}
+
+/*
+    Qr-Code Container
+*/
+
+main {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  padding-bottom: 2.25rem;
+  background-color: var(--white);
+  border-radius: 20px;
+  gap: 1rem;
+  box-shadow: 0px 1.563rem 1.563rem rgba(0, 0, 0, 0.0476518);
+}
+
+.card__qr-code {
+  width: 288px;
+  height: 288px;
+  border-radius: 10px;
+}
+
+.card__heading {
+  width: 288px;
+  color: var(--dark-navy);
+  font: 700 22px/27.7px var(--fontOutfit);
+}
+
+.card__description {
+  width: 256px;
+  color: var(--gray);
+  font: 300 15px/19px var(--fontOutfit);
+  letter-spacing: 0.2px;
+  align-self: center;
+}
+
+.attribution {
+  font-size: 12px;
+}
+.attribution,
+a {
+  color: var(--dark-navy);
+}
