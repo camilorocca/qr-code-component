@@ -1,11 +1,12 @@
 
-<div align="center">
+<div align="left">
   <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="frontendmentor" width="80">
-  <h2 align="center">QR Code Component Solution</h2>
+  <h2>QR Code Component Solution </h2>
+  <p><a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank"><strong>Frontend Mentor Challenge</strong></a></p>
 </div>
 
 <!-- Bagdes -->
-<div align="center">
+<div align="left">
   <!-- Profiles -->
   <a href="https://www.frontendmentor.io/profile/camilorocca" target="_blank">
     <img src="https://img.shields.io/badge/Profile-camilorocca-eee?style=for-the-badge&logo=frontendmentor" alt="Camilo's Profile">
@@ -32,14 +33,14 @@
 
 ## **Links**
 
-- Solution URL: [Add solution URL here](https://qr-code-component-without-any-added-creativity)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+* Solution URL: https://github.com/camilorocca/qr-code-component
+* Live Site URL: https://camilorocca.github.io/qr-code-component
 
 
 ## **Built with**
 
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 
 ## **What I learned**
 
@@ -73,7 +74,7 @@
 
 ## **Get in touch!**
 
-<div align=center>
+<div align=left>
 
   <a href="https://linkedin.com/in/camilorocca" target="_blank">
     <img src="https://img.shields.io/badge/linkedin%20Profile-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin>
